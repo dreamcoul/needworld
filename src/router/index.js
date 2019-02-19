@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import HelloWorld from '@/components/HelloWorld'
 import Log from './../components/Log.vue'
-import User from '@/components/User'
+import User from '@/page/User'
 // import Index from '@/page/index'
 // import Content from '@/page/content'
 
